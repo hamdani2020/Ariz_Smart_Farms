@@ -1761,3 +1761,10 @@ body {
 .social-box {
   width: 20px;
 }
+
+.social_box a img {
+  width: auto;
+  height: auto;
+  max-width: 30px;
+  max-height: 30px;
+}
