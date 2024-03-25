@@ -161,6 +161,10 @@ body {
   opacity: 0.9;
 }
 
+.orange-button {
+  margin: 40px;
+}
+
 .orange-button a {
   font-size: 14px;
   color: #fff;
